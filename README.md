@@ -1,7 +1,8 @@
 # Fake_News_Classification
-User can enter news and check if it's real or fake.
+Classifying news articles analyze the sentiment of news articles towards a particular category
+Fake or Real?
 
-# what i did? :
+# What did I do? 
 1- Get two news datasets one real and one fake.
 
 2- Made new column called label contains label of each sample.
